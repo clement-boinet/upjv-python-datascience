@@ -20,6 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD5](td05_enonce.ipynb) | Sujet du TD5 | :white_check_mark: |
 | [TD6](td06_enonce.ipynb) | Sujet du TD6 | :white_check_mark: |
 | [TD7](td07_enonce.ipynb) | Sujet du TD7 | :white_check_mark: |
+| [TD8](td08_enonce.ipynb) | Sujet du TD8 | :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
